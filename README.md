@@ -3,7 +3,7 @@
 Currently in BETA Development Stage.
  
 ----
-#SPNOTES
+# RELEASE NOTES
 
 Service Pack 1 
 
